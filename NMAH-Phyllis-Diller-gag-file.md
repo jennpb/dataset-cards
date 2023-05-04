@@ -102,13 +102,6 @@ These data are provided under the Smithsonian Terms of Use (https://www.si.edu/t
 
 ## Citation Information 
 
-Both the transcriptions as well as images of index cards are available for bulk download from FigShare.
-
-**Collection DOI:** https://doi.org/10.25573/data.c.6286386
-
-**Images DOI:** https://doi.org/10.25573/data.21401055
-
-**Transcriptions DOI:** https://doi.org/10.25573/data.21401145
 
 ## Contributions 
 
