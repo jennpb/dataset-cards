@@ -283,7 +283,7 @@ The dataset represents a portion of the U. S. National Entomological Collection.
 
 Bumblebee specimens were collected over a period of 150 years (earliest specimen dates from 1861, most recent specimen dates from 2011). The specimens were collected by and identified by many different individual researchers over this time. The initial images of 48,000 specimens were taken in a rapid capture project by a dedicated team in 2014 with additional specimen images (14,000) taken in 2018. The labels containing the information on site/location, date of collection, collector, and identifier were removed from the insect pin. The occurrence data were transcribed from the labels by online volunteers and a professional transcription service into Darwin Core fields. Following quality control of the transcribed data by NMNH staff, they were imported into the institutional database (EMu). 
 
-NMNH specimen data get exported to the Global Biodiversity Information Facility (GBIF) on a weekly basis through an installation of an Integrated Publishing Toolkit (IPT, https://collections.nmnh.si.edu/ipt/). Some data transformation takes place within EMu and GBIF likewise normalizes the data to meet their standards. The  
+NMNH specimen data get exported to the Global Biodiversity Information Facility (GBIF) on a weekly basis through an installation of an Integrated Publishing Toolkit (IPT, https://collections.nmnh.si.edu/ipt/). Some data transformation takes place within EMu and GBIF likewise normalizes the data to meet their standards.  
 
  
 ## Who are the source language producers? 
