@@ -7,7 +7,7 @@ Some items detailed on each Dataset Card include the original intent for gatheri
 We chose an initial handful of Smithsonian datasets on which pilot Dataset Cards. The datasets we chose for this initial release of dataset cards are not meant to be representative of all Smithsonian data or content types, but they do span natural science, history, and culture.
 
   - [NMNH Bumblebees](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-Bumblebees.md)
-  - NMNH Botany (not posted yet)
+  - [NMNH US National Herbarium](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-US-National-Herbarium.md)
   - NMAAHC Freedmen's Bureau Archive (not posted yet)
   - [NMAH Phyllis Diller Gag File](https://github.com/Smithsonian/dataset-cards/blob/main/NMAH-Phyllis-Diller-gag-file.md)
   - *Prunus* dataset from Hodel et al. in review (not posted yet)
