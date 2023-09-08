@@ -53,7 +53,7 @@ These data were collected by many different research groups, primarily universit
 | *Ruditapes philippinarum* | GCA_009026015.1 | SRR7716293-SRR7716297 | n/a |
 
 
-###Bacterial Datasets
+### Bacterial Datasets
 
 | Project Accession  | Read Accessions  | 
 |---|---|
