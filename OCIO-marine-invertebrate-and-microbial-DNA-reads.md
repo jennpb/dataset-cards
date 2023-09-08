@@ -1,9 +1,14 @@
 **Dataset title:** Labeled marine invertebrate and microbial DNA reads
+
 **Dataset curator:** Jennifer Spillane, PhD, Smithsonian Institution Data Science Lab, Office of the Chief Information Officer
+
 **Dataset version:** 1.0, 1-4-23
+
 **Dataset citation and DOI:**
 Data statement author: Jennifer Spillane, PhD, Smithsonian Institution Data Science Lab, Office of the Chief Information Officer
+
 **Data statement citation:** authors, date, title, version, institution, and URL or DOI.
+
 
 ## Dataset Summary
 This dataset was designed as a training dataset for machine learning approaches to DNA decontamination, particularly for invertebrate animal lineages, for which decontamination is very difficult. It is composed of DNA sequencing reads from 24 invertebrate animals and 4 marine metagenomic projects from publicly available DNA repositories. The animal reads have been cleaned of all types of contaminating sequence reads so that all the reads come from the target animal only. The bacterial reads have been verified as belonging to a bacterial family. 
