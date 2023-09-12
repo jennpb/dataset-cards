@@ -1,6 +1,6 @@
 ## Dataset Summary 
 
-The US National Herbarium dataset is a natural history dataset containing over 4.5 million plant specimens in 1,163 families, with images of each specimen as well as corresponding occurrence data. Occurrence data includes the species classification, the date/time and site/location of collection, and other metadata conforming to the Darwin Core data standard (https://dwc.tdwg.org). The plant collections of the Smithsonian Institution reside in the US National Herbarium within the National Museum of Natural History, which today numbers over 5 million historical plant records, placing it among the world's largest and most important. The overwhelming majority of these specimens are digitized and publicly available.
+The US National Herbarium dataset is a natural history dataset containing over 4.5 million plant specimens in over 1,300 families, with images of each specimen as well as corresponding occurrence data. Occurrence data includes the species classification, the date/time and site/location of collection, and other metadata conforming to the Darwin Core data standard (https://dwc.tdwg.org). The plant collections of the Smithsonian Institution reside in the US National Herbarium within the National Museum of Natural History, which today numbers over 5 million historical plant records, placing it among the world's largest and most important. The overwhelming majority of these specimens are digitized and publicly available.
 
 ## Languages 
 
@@ -287,7 +287,7 @@ NMNH specimen data get exported to the Global Biodiversity Information Facility 
  
 ## Who are the source language producers? 
 
-The occurrence data were produced by humans, observed and written onto paper labels over the museum’s history, and then transcribed from paper labels stored with the unmounted specimens upon collection. 
+The occurrence data were produced by humans, observed and written onto paper labels over the museum’s history, and then transcribed from the herbarium sheet labels. 
 
 ## Annotations 
 
@@ -295,7 +295,7 @@ The specimen occurrence data in Darwin Core fields.
 
 ## Annotation process 
 
-The occurrence data were transcribed from the labels by online volunteers and a professional transcription service into Darwin Core fields. 
+The occurrence data were transcribed from the labels by the conveyor vendor, and by NMNH staff over 40 years, into Darwin Core fields. 
 
 ## Who are the annotators? 
 
@@ -317,7 +317,7 @@ Some site/location names could cause harm as they are insensitive or racist towa
 
 Estimates of species geographic ranges based on these data may not be complete. There are many reasons collectors may collect more frequently from some areas rather than others, including their own taxonomic interests, proximity to collections institutions, accessibility via roads, ability to acquire permits for a specific area, or for geopolitical reasons. 
 
-The geographic distribution of specimens in this dataset is not necessarily representative of the geographic distribution of plant diversity.
+The geographic distribution of specimens in this dataset is not necessarily representative of the geographic distribution of plant diversity. The lack of a taxon from a specific area in the herbarium data does not prove the that the species does not exist in that area; all herbaria data can prove is the positive, not negative, existence. 
 
 ## Other Known Limitations 
 
@@ -329,11 +329,17 @@ Collector names may not be consistent across records (e.g. the same person’s n
 
 Locality data may use historical place names that are no longer used. 
 
+Although there are written locality data for most specimen records, a large percentage do not have geocoordinates.
+
 Dates may sometimes have been recorded by original collectors inconsistently or may be incomplete (no month/day information). 
 
 For endangered species, locality data is not included in the dataset. 
 
 For specimens collected from Brazil, specimen images are not included in the dataset. 
+
+Plant specimens from Cactaceae and Orchidaceae do not have images online because of poaching concerns. Locality data of these families is also kept offline.
+
+The approximate numbers reported in the dataset card are accurate as of September 2023, but specimens are continually being deposited in the US Herbarium and subsequently digitized.
 
 ## Dataset Curators 
 
@@ -350,5 +356,7 @@ Orrell T, Informatics Office (2023). NMNH Extant Specimen Records (USNM, US). Ve
 ## Contributions 
 
 Thanks to NMNH for adding this dataset. 
+
+ 
 
  
