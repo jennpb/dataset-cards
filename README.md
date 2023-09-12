@@ -10,8 +10,7 @@ We chose an initial handful of Smithsonian datasets for which to pilot Dataset C
   - [NMNH US National Herbarium](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-US-National-Herbarium.md)
   - NMAAHC Freedmen's Bureau Archive (not posted yet)
   - [NMAH Phyllis Diller Gag File](https://github.com/Smithsonian/dataset-cards/blob/main/NMAH-Phyllis-Diller-gag-file.md)
-  - *Prunus* dataset from Hodel et al. in review (not posted yet)
-  - [DRAFT Labeled marine invertebrate and microbial DNA reads](https://github.com/Smithsonian/dataset-cards/blob/main/OCIO-marine-invertebrate-and-microbial-DNA-reads.md)
+  - [Labeled marine invertebrate and microbial DNA reads (draft)](https://github.com/Smithsonian/dataset-cards/blob/main/OCIO-marine-invertebrate-and-microbial-DNA-reads.md)
 
 
 We welcome feedback about these Dataset Cards at SI-DataScience@si.edu.
