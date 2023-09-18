@@ -77,7 +77,7 @@ Images: The Freedmen's Bureau Digital Collection is provided courtesy of the U.S
 
 ### Citation Information  
 
-Add FigShare DOI    
+JSON file with transcriptions available on FigShare via this DOI: 10.25573/data.24158454    
 
 ### Contributions  
 
