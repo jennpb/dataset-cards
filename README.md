@@ -8,7 +8,7 @@ We chose an initial handful of Smithsonian datasets for which to pilot Dataset C
 
   - [NMNH Bumblebees](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-Bumblebees.md)
   - [NMNH US National Herbarium](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-US-National-Herbarium.md)
-  - NMAAHC Freedmen's Bureau Archive (not posted yet)
+  - [NMAAHC Freedmen's Bureau Archive](https://github.com/Smithsonian/dataset-cards/blob/main/NMAAHC-Freedmens-Bureau-Digital-Collection.md)
   - [NMAH Phyllis Diller Gag File](https://github.com/Smithsonian/dataset-cards/blob/main/NMAH-Phyllis-Diller-gag-file.md)
   - [Labeled marine invertebrate and microbial DNA reads (draft)](https://github.com/Smithsonian/dataset-cards/blob/main/OCIO-marine-invertebrate-and-microbial-DNA-reads.md)
 
