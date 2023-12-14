@@ -1,16 +1,7 @@
-# Smithsonian Dataset Cards
+# Flickr Foundation Dataset Cards
 
-This repository contains Dataset Cards for some Smithsonian datasets. To write these, we used the Dataset Card template from [HuggingFace](https://github.com/huggingface/datasets/blob/main/templates/README_guide.md) as a starting point and only included fields with applicable information.
+This repo contains a WORK IN PROGRESS dataset card template for the [Flickr Foundation](https://www.flickr.org). The repo was forked from [Smithsonian](https://github.com/Smithsonian/dataset-cards). 
 
-Some items detailed on each Dataset Card include the original intent for gathering the dataset, its context, assumptions, changes to the data, normalizations, transformations that have occurred, and explanation of known biases and social impact.
+We are considering what a dataset card might look like for Flickr Commons and Commons members' datasets as they become unmoored from flickr.com. Keep an eye on the [Content Mobility program](https://www.flickr.org/programs/content-mobility/) to see what we're up to. 
 
-We chose an initial handful of Smithsonian datasets for which to pilot Dataset Cards. The datasets we chose for this initial release of dataset cards are not meant to be representative of all Smithsonian data or content types, but they do span natural science, history, and culture.
-
-  - [NMNH Bumblebees](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-Bumblebees.md)
-  - [NMNH US National Herbarium](https://github.com/Smithsonian/dataset-cards/blob/main/NMNH-US-National-Herbarium.md)
-  - [NMAAHC Freedmen's Bureau Archive](https://github.com/Smithsonian/dataset-cards/blob/main/NMAAHC-Freedmens-Bureau-Digital-Collection.md)
-  - [NMAH Phyllis Diller Gag File](https://github.com/Smithsonian/dataset-cards/blob/main/NMAH-Phyllis-Diller-gag-file.md)
-  - [Labeled marine invertebrate and microbial DNA reads (draft)](https://github.com/Smithsonian/dataset-cards/blob/main/OCIO-marine-invertebrate-and-microbial-DNA-reads.md)
-
-
-We welcome feedback about these Dataset Cards at SI-DataScience@si.edu.
+This repo was created during my Research Fellowship at Flickr Foundation. 
